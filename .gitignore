@@ -1,0 +1,10 @@
+.vs
+*.txt
+*.sln
+*.vcxproj
+*.filters
+*.user
+LBM\Debug
+Debug
+project1_sdl2
+x64
